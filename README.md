@@ -1,5 +1,9 @@
 🚀 FinTrack – Smart Personal Finance App
 
+🔗 Figma Desgin
+
+https://www.figma.com/design/xPPXxtEO6PCvSK7FhslygM/Smart-Expense-Tracker-App?node-id=0-1&t=DuQoAXR3frAEwlMW-1
+
 A high-fidelity UI/UX case study for a smart personal finance and expense tracking mobile application.
 
 📌 Problem Statement
@@ -57,7 +61,3 @@ Inter / Poppins typography
 🖼 High-Fidelity Screens
 
 🎨 UI Assets
-
-🔗 Figma Desgin
-
-[(Add your Figma link here)](https://www.figma.com/design/xPPXxtEO6PCvSK7FhslygM/Smart-Expense-Tracker-App?node-id=0-1&t=DuQoAXR3frAEwlMW-1)
